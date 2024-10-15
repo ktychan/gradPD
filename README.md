@@ -8,7 +8,7 @@ MathPD will kick off on November 6 and run roughly once every three weeks. Each 
 - LaTeX @ 4:30 pm on November 6, 2024. 
 - Collaboration @ 4:30 pm on November 27, 2024.
 
-:calendaar: More events and workshops are planned for the Winter 2025 semester. Stay tuned!
+:calendar: More events and workshops are planned for the Winter 2025 semester. Stay tuned!
 
 ### LaTeX (November 6 @ 4:30 pm in MC 107)
 
