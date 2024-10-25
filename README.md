@@ -1,6 +1,6 @@
 # MathPD
 
-The Department of Mathematics at Western University is excited to introduce MathPD, a series of professional development workshops for graduate students that aim to help you acquire soft skills essential to a career in mathematics.
+The Department of Mathematics at Western University is excited to introduce MathPD :tada:, a series of professional development workshops for graduate students that aim to help you acquire soft skills essential to a career in mathematics.
 
 We will cover everything from typesetting your papers and talks to marketing yourself and your research to preparing for the job market. Everyone is welcome! 
 
@@ -17,7 +17,7 @@ LaTeX is a document preparation system widely used in mathematics. Every mathema
 The LaTeX workshop is facilitated by Kelvin Chan. Everyone is welcome, even if you already know some LaTeX. The workshop will be tailored to the needs of the audience.
 
 We will gain some hands-on experience with LaTeX. At the end of the workshop, you will
-- know the basic syntax of LaTeX,
+- know the basics of LaTeX to typeset a wide range of mathematical entities,
 - have created a basic paper or presentation,
 - have successfully produced PDFs from your skeleton document,
 - know how to manage multi-file projects 
